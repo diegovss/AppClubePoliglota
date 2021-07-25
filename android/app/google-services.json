@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "92888714175",
+    "project_id": "appclubepoliglota-64359",
+    "storage_bucket": "appclubepoliglota-64359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92888714175:android:21ed4b25ad4d45dd5bef0a",
+        "android_client_info": {
+          "package_name": "com.appclubepoliglota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92888714175-5ds7vac2lv9371j18erjial5vl34vvar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOv8weCS6WiqB5KMnUgsP92p7DrnKf7D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92888714175-5ds7vac2lv9371j18erjial5vl34vvar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92888714175:android:dbae8e966ff593925bef0a",
+        "android_client_info": {
+          "package_name": "com.clubepoliglota.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92888714175-5ds7vac2lv9371j18erjial5vl34vvar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOv8weCS6WiqB5KMnUgsP92p7DrnKf7D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92888714175-5ds7vac2lv9371j18erjial5vl34vvar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
