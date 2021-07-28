@@ -2,13 +2,6 @@ import React, { createContext } from 'react';
 import auth from '@react-native-firebase/auth';
 import { useState } from 'react';
 
-export interface IAuth {
-    user: string
-    setUser: (user: string) => void;
-    login: (email: string, password: string) => void;
-    register: (email: string, password: string) => void;
-    logout: () => void;
-}
 
 export const AuthContext = createContext<IAuth>(null);
 
